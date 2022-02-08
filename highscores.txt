@@ -1,0 +1,6 @@
+James,6
+Alex,2
+Paul,9
+Sarah,5
+Jess,0
+Beth,11
